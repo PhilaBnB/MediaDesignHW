@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item android:title="page1"
+        android:id="@+id/nav1"
+        android:icon="@drawable/ic_launcher_background"
+
+        />
+    <item android:title="page2"
+        android:id="@+id/nav2"
+        android:icon="@drawable/ic_launcher_background"
+        />
+    <item android:title="page3"
+        android:id="@+id/nav3"
+        android:icon="@drawable/ic_launcher_background"
+        />
+    <item android:title="page4"
+        android:id="@+id/nav4"
+        android:icon="@drawable/ic_launcher_background"
+        />
+    <item android:title="page5"
+        android:id="@+id/nav5"
+        android:icon="@drawable/ic_launcher_background"
+        />
+</menu>
